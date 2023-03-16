@@ -2,7 +2,7 @@
   <a href="https://soburjon-todo-list.netlify.app/" target="_blank">To-Do List</a>
 </h2>
 <div align="center">
-  <img alt="Image" src="./Image/to-do-list.jpg" />
+  <img alt="Image" src="./image/to-do-list.jpg" />
 </div>
 
 ## 🛠 Installation and Setup Instructions
